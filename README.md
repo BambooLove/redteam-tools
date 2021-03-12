@@ -10,3 +10,5 @@
 > 2.**httpx.sh** - httpx+nuclei批量漏洞探测脚本.
 
 > 3.**httpx-url.sh** - httpx+nuclei单URL漏洞探测脚本.
+
+> 4.**get_title.py** - 快速从IP+端口从提取HTTP
